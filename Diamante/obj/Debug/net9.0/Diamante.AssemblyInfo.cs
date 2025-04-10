@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Diamante")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ff65d0172fe02b7bc383b5a62e768b9285acdba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43d0d1f50520920c907503a818b9e6b5f7b310e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Diamante")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Diamante")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

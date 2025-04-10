@@ -1,6 +1,4 @@
-﻿using System;
-
-        int numero = SolicitarNumeroImpar();
+﻿        int numero = SolicitarNumeroImpar();
         DesenharDiamante(numero);
 
     static int SolicitarNumeroImpar()
