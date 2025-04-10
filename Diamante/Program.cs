@@ -28,3 +28,19 @@
         Console.Write(new string(' ', espacos));
         Console.WriteLine(new string('X', quantidadeDeX));
     }
+    static void DesenharDiamante(int tamanho)
+    {
+        int meio = tamanho / 2;
+
+        // Parte superior
+        for (int i = 0; i <= meio; i++)
+        {
+            EscreverLinha(tamanho, i);
+        }
+
+        // Parte inferior
+        for (int i = meio - 1; i >= 0; i--)
+        {
+            EscreverLinha(tamanho, i);
+        }
+    }
