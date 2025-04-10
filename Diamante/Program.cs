@@ -20,4 +20,11 @@
 
         return numero;
     }
-    
+    static void EscreverLinha(int larguraTotal, int linhaAtual)
+    {
+        int quantidadeDeX = linhaAtual * 2 + 1;
+        int espacos = (larguraTotal - quantidadeDeX) / 2;
+
+        Console.Write(new string(' ', espacos));
+        Console.WriteLine(new string('X', quantidadeDeX));
+    }
