@@ -19,13 +19,4 @@ O programa realiza validações para garantir que o número digitado seja um **n
 
 ## Exemplo de Execução
 
-```bash
-Digite um número ímpar: 7
-
-   X
-  XXX
- XXXXX
-XXXXXXX
- XXXXX
-  XXX
-   X
+![Demonstração do programa](https://i.imgur.com/VidMQUQ.gif)
